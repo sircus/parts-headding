@@ -1,0 +1,49 @@
+
+// Converted Variables
+
+
+// Custom Media Query Variables
+
+
+/*
+ * sircus-tools-align-responsive
+ ================================================== */
+
+@media #{$g-viewport-sm} {
+  .t-sm-alignLeft       { text-align: left !important; }
+  .t-sm-alignRight      { text-align: right !important; }
+  .t-sm-alignCenter     { text-align: center !important; }
+  .t-sm-alignJustify    { text-align: justify !important; }
+  .t-sm-alignTop        { vertical-align:top !important; }
+  .t-sm-alignMiddle     { vertical-align:middle !important; }
+  .t-sm-alignBottom     { vertical-align:bottom !important; }
+  .t-sm-alignBaseline   { vertical-align:baseline !important; }
+  .t-sm-alignTextTop    { vertical-align:text-top !important; }
+  .t-sm-alignTextBottom { vertical-align:text-bottom !important; }
+}
+
+@media #{$g-viewport-md} {
+  .t-md-alignLeft       { text-align: left !important; }
+  .t-md-alignRight      { text-align: right !important; }
+  .t-md-alignCenter     { text-align: center !important; }
+  .t-md-alignJustify    { text-align: justify !important; }
+  .t-md-alignTop        { vertical-align:top !important; }
+  .t-md-alignMiddle     { vertical-align:middle !important; }
+  .t-md-alignBottom     { vertical-align:bottom !important; }
+  .t-md-alignBaseline   { vertical-align:baseline !important; }
+  .t-md-alignTextTop    { vertical-align:text-top !important; }
+  .t-md-alignTextBottom { vertical-align:text-bottom !important; }
+}
+
+@media #{$g-viewport-lg} {
+  .t-lg-alignLeft       { text-align: left !important; }
+  .t-lg-alignRight      { text-align: right !important; }
+  .t-lg-alignCenter     { text-align: center !important; }
+  .t-lg-alignJustify    { text-align: justify !important; }
+  .t-lg-alignTop        { vertical-align:top !important; }
+  .t-lg-alignMiddle     { vertical-align:middle !important; }
+  .t-lg-alignBottom     { vertical-align:bottom !important; }
+  .t-lg-alignBaseline   { vertical-align:baseline !important; }
+  .t-lg-alignTextTop    { vertical-align:text-top !important; }
+  .t-lg-alignTextBottom { vertical-align:text-bottom !important; }
+}
