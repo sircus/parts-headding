@@ -13,7 +13,7 @@
 > use npm:
 
 ```bash
-$ npm install sircus-tools-align-responsive && npm install sircus-global-proprety
+$ npm install sircus-tools-align-responsive sircus-global-proprety
 ```
 
 ## Usage
