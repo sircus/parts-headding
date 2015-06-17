@@ -5,35 +5,41 @@
 > A responsive align tools Module for Sircus.
 
 ## Dependencies
-- [sircus-global-proprety](https://github.com/sircus/global-property)
+- [sircus-global-property](https://github.com/sircus/global-property)
 
 
 ## Installation
 
-> use npm:
+> npm:
 
 ```bash
-$ npm install sircus-tools-align-responsive sircus-global-proprety
+$ npm install sircus-tools-align-responsive sircus-global-property
 ```
 
 ## Usage
 
-> use cssnext:
+> cssnext:
 
 input.css
 ```css
 @import "sircus-tools-align-responsive";
+/*
+@import "sircus-tools-align-responsive/lib/sm";
+@import "sircus-tools-align-responsive/lib/md";
+@import "sircus-tools-align-responsive/lib/lg";
+*/
 @import "sircus-global-property";
-@import "./css/your-theme-property";
 ```
 
-> use sass:
+> sass:
 
 input.scss
-```css
-@import "node_modules/sircus-global-property/converted";
-@import "./scss/your-theme-property";
-@import "node_modules/sircus-tools-align-responsive/converted";
+```scss
+@import "./node_modules/sircus-global-property/converted";
+@import "./node_modules/sircus-tools-align-responsive/converted";
+// @import "./node_modules/sircus-tools-align-responsive/scss/sm";
+// @import "./node_modules/sircus-tools-align-responsive/scss/md";
+// @import "./node_modules/sircus-tools-align-responsive/scss/lg";
 ```
 
 

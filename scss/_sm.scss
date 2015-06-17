@@ -1,0 +1,23 @@
+
+// Converted Variables
+
+
+// Custom Media Query Variables
+
+
+/*
+ * sircus-tools-align-responsive(sm)
+ ================================================== */
+
+@media #{$g-viewport-sm} {
+  .t-sm-alignLeft       { text-align: left !important; }
+  .t-sm-alignRight      { text-align: right !important; }
+  .t-sm-alignCenter     { text-align: center !important; }
+  .t-sm-alignJustify    { text-align: justify !important; }
+  .t-sm-alignTop        { vertical-align:top !important; }
+  .t-sm-alignMiddle     { vertical-align:middle !important; }
+  .t-sm-alignBottom     { vertical-align:bottom !important; }
+  .t-sm-alignBaseline   { vertical-align:baseline !important; }
+  .t-sm-alignTextTop    { vertical-align:text-top !important; }
+  .t-sm-alignTextBottom { vertical-align:text-bottom !important; }
+}
