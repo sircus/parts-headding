@@ -2,8 +2,6 @@
 
 [![npm version](https://img.shields.io/npm/v/sircus-tools-align-responsive.svg?style=flat)](https://www.npmjs.com/package/sircus-tools-align-responsive)
 
-> A responsive align tools Module for Sircus.
-
 ## Dependencies
 - [sircus-global-property](https://github.com/sircus/global-property)
 
