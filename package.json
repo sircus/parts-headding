@@ -26,7 +26,7 @@
     "build": "npm run build:sm && npm run build:md && npm run build:lg"
   },
   "dependencies": {
-    "sircus-global-property": "^0.0.1"
+    "sircus-variables": "^0.0.0"
   },
   "devDependencies": {
     "sircus-process-css2scss": "^0.2.0"
