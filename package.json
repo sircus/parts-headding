@@ -1,17 +1,17 @@
 {
   "name": "sircus-tools-align-responsive",
-  "description": "Responsive css align tools module for Sircus.",
+  "description": "Module For Responsive CSS text-align and vertical-align.",
   "version": "0.0.3",
   "homepage": "http://sircus.github.io",
   "keywords": [
-    "scalabe",
-    "design",
     "css",
-    "cssnext",
+    "design",
+    "modular",
+    "scalable",
     "rwd"
   ],
   "author": {
-    "name": "Yasuyuki Enomoto",
+    "name": "blivesta",
     "url": "http://blivesta.com"
   },
   "license": "MIT",
